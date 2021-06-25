@@ -14,5 +14,5 @@ Tools and Languages:
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 
-
-![Spotify](https:/novatorem-lowgy.vercel.app/api/spotify)](https://open.spotify.com/user/logyhd)
+## 🎧 Spotify Currently Playing:
+[![Spotify](https://novatorem-jet-ten.vercel.app/api/spotify)](https://open.spotify.com/user/logyhd)
