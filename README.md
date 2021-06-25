@@ -1,4 +1,4 @@
-## Hello, I'm Logan Olson! 👋
+## Hello, I'm Logan Olson! 👋 
 
 - 💻 I'm currently a developer for Roofbundle.
 - 📱 I'm currently learning Swift.
@@ -16,3 +16,11 @@ Tools and Languages:
 
 ## 🎧 Spotify Currently Playing:
 [![Spotify](https://novatorem-jet-ten.vercel.app/api/spotify)](https://open.spotify.com/user/logyhd)
+
+
+<details>
+  <summary>Connect with me:</summary>
+    <a href="https://www.linkedin.com/in/loganolson/" target="_blank"><img src="https://user-images.githubusercontent.com/61593279/123460138-cc15bd00-d5ac-11eb-8f22-b73f40abb214.png" width="30" height="30" /></a>
+  <span/>
+  <a href="" target="_blank"><img src="https://user-images.githubusercontent.com/61593279/123460360-231b9200-d5ad-11eb-85e0-81d8014fce44.png" width="30" height="30" /></a>
+</details>
