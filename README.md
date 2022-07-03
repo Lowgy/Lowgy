@@ -1,9 +1,9 @@
 ## Hello, I'm Logan Olson! 👋 
 
-- 💻 I'm currently a developer for Roofbundle.
-- 📱 I'm currently learning Swift.
+- 💻 Web/Software Developer
+- 📱 React is love, React is Life
 - 📚 I'm always looking for new things to learn
-- ✅ 2021 Goal: Expand my development toolbelt, push my boundaries
+- ✅ 2022 Goal: Expand my development toolbelt, push my boundaries
 
 Tools and Languages:
 <br>
