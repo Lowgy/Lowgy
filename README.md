@@ -3,7 +3,7 @@
 - 💻 Web/Software Developer
 - 📱 React is love, React is Life
 - 📚 I'm always looking for new things to learn
-- ✅ 2023 Goal: Expand my development toolbelt, push my boundaries
+- ✅ 2024 Goal: Land a job back in the industry, continue to grow!
 
 Tools and Languages:
 <br>
