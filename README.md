@@ -14,10 +14,6 @@ Tools and Languages:
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/>
 
-## 🎧 Spotify Currently Playing:
-[![Spotify](https://novatorem-jet-ten.vercel.app/api/spotify)](https://open.spotify.com/user/logyhd)
-
-
 <details>
   <summary>Connect with me:</summary>
     <a href="https://www.linkedin.com/in/loganolson/" target="_blank"><img src="https://user-images.githubusercontent.com/61593279/123460138-cc15bd00-d5ac-11eb-8f22-b73f40abb214.png" width="30" height="30" /></a>
